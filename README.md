@@ -28,3 +28,4 @@ Requirements
 Perl JSON package
 
 * Debian / Ubuntu : libjson-perl libnagios-plugin-perl libwww-perl
+* RedHat / CentOS : perl-JSON perl-Nagios-Plugin perl-libwww-perl
